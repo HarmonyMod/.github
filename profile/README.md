@@ -1,1 +1,1 @@
-Hello. This is Harmonymod a scratch / turbowarp / penguinmod fork to maximise compatability and add intresting new features too. i will probably use a fork of MistWarp with Penguinmod stuff added.
+Hello. This is Harmonymod a scratch / turbowarp / penguinmod fork to maximise compatability and add intresting new features too. i will probably use a fork of MistWarp with Penguinmod stuff added. to start with then move on to other mods.
